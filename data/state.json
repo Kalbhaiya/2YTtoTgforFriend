@@ -1,0 +1,83 @@
+{
+  "tasks": {
+    "_SGYbWiODks": {
+      "id": "_SGYbWiODks",
+      "url": "https://youtube.com/watch?v=_SGYbWiODks",
+      "title": "NUMBER SYSTEM[ संख्या पद्धति ] RS AGRAWAL / ZERO TO HERO / BY KAL BHAIYA",
+      "status": "failed",
+      "quality": "1080",
+      "order": 0,
+      "attempts": 0,
+      "error": "Bot detection: \u001b[0;31mERROR:\u001b[0m [youtube] _SGYbWiODks: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pa",
+      "filepath": "",
+      "filesize": 0,
+      "duration": "23:21",
+      "channel": "KAL BHAIYA",
+      "upload_date": "",
+      "upload_time": "",
+      "thumb_path": "",
+      "width": 0,
+      "height": 0,
+      "parts": [],
+      "added_at": 1785901980.6803064,
+      "started_at": 1785901981.2409084,
+      "finished_at": 1785902001.8364434,
+      "source": "channel"
+    },
+    "yZUaGI23lMg": {
+      "id": "yZUaGI23lMg",
+      "url": "https://youtube.com/watch?v=yZUaGI23lMg",
+      "title": "NUMBER SYSTEM[ संख्या पद्धति ] RS AGRAWAL / ZERO TO HERO / BY KAL BHAIYA",
+      "status": "failed",
+      "quality": "1080",
+      "order": 1,
+      "attempts": 0,
+      "error": "Bot detection: \u001b[0;31mERROR:\u001b[0m [youtube] yZUaGI23lMg: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pa",
+      "filepath": "",
+      "filesize": 0,
+      "duration": "12:07",
+      "channel": "KAL BHAIYA",
+      "upload_date": "",
+      "upload_time": "",
+      "thumb_path": "",
+      "width": 0,
+      "height": 0,
+      "parts": [],
+      "added_at": 1785901980.6803234,
+      "started_at": 1785901981.241214,
+      "finished_at": 1785901999.7120795,
+      "source": "channel"
+    }
+  },
+  "settings": {
+    "parallel_downloads": 3,
+    "quality": "1080",
+    "paused": true,
+    "sort_order": "new_old",
+    "current_source": null,
+    "current_channel": "",
+    "dest_chat_id": 0,
+    "dest_chat_title": "",
+    "dest_history": []
+  },
+  "stats": {
+    "completed": 0,
+    "failed": 2,
+    "skipped": 0,
+    "bytes_uploaded": 0,
+    "total_time": 0.0,
+    "failed_list": [
+      {
+        "title": "NUMBER SYSTEM[ संख्या पद्धति ] RS AGRAWAL / ZERO TO HERO / BY KAL BHAIYA",
+        "url": "https://youtube.com/watch?v=yZUaGI23lMg",
+        "error": "Bot detection: \u001b[0;31mERROR:\u001b[0m [youtube] yZUaGI23lMg: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pa"
+      },
+      {
+        "title": "NUMBER SYSTEM[ संख्या पद्धति ] RS AGRAWAL / ZERO TO HERO / BY KAL BHAIYA",
+        "url": "https://youtube.com/watch?v=_SGYbWiODks",
+        "error": "Bot detection: \u001b[0;31mERROR:\u001b[0m [youtube] _SGYbWiODks: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pa"
+      }
+    ],
+    "date": "2026-08-05"
+  }
+}
